@@ -1,3 +1,5 @@
+# !/usr/bin/python
+# -*- coding: UTF-8 -*-
 #Graham 扫描法找凸包(convexHull)
 #参考:https://www.cnblogs.com/nowgood/p/GrahamconvexHull.html
 
